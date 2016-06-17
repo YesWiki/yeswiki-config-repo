@@ -1,0 +1,23 @@
+{
+  "cercopitheque": {
+    "git-repo": "https://github.com/YesWiki/yeswiki.git",
+    "branch": "cercopitheque",
+    "extensions": {
+      "activite": {
+        "git-repo": "https://github.com/YesWiki/yeswiki-extension-activite.git",
+        "branch": "master"
+      },
+      "color": {
+        "git-repo": "https://github.com/YesWiki/yeswiki-extension-color.git",
+        "branch": "master"
+      }
+    },
+    "themes": {
+      "colibris": {
+        "git-repo": "https://github.com/YesWiki/yeswiki-themes.git",
+        "branch": "master",
+        "folder": "colibris"
+      }
+    }
+  }
+}
