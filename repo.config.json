@@ -17,12 +17,6 @@
                 "description": "Automatise les mise à jour.",
                 "documentation": "http://yeswiki.net/wakka.php?wiki=DocumentationExtensionAutoUpdate"
             },
-            "captcha": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-captcha/archive/master.zip",
-                "branch": "master",
-                "description": "Installe un captcha lors de l'édition d'une page",
-                "documentation": "http://yeswiki.net/wakka.php?wiki=DocumentationExtensionDocCaptcha"
-            },
             "color": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-color/archive/master.zip",
                 "branch": "master",
@@ -105,12 +99,6 @@
                 "branch": "master",
                 "description": "Automatise les mise à jour.",
                 "documentation": "http://yeswiki.net/wakka.php?wiki=DocumentatioN"
-            },
-            "captcha": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-captcha/archive/master.zip",
-                "branch": "master",
-                "description": "Installe un captcha lors de l'édition d'une page",
-                "documentation": "http://yeswiki.net/wakka.php?wiki=DocCaptcha"
             },
             "color": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-color/archive/master.zip",
