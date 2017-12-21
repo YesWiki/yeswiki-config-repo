@@ -50,75 +50,75 @@
         },
         "themes": {
             "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-base/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBase"
             },
             "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-black/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBlack"
             },
             "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBootstrap3"
             },
             "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeColibris"
             },
             "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoop/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeEnercoop"
             },
             "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-far/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeFar"
             },
             "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-interface/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeInterface"
             },
             "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemePactecivique"
             },
             "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-organic/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeOrganic"
             },
             "moustic2015": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
-            }  
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeMoustic2015"
+            }
         }
     },
     "cercopitheque_dev": {
@@ -172,74 +172,74 @@
         },
         "themes": {
             "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-base/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBase"
             },
             "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-black/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBlack"
             },
             "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBootstrap3"
             },
             "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeColibris"
             },
             "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoop/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeEnercoop"
             },
             "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-far/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeFar"
             },
             "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-interface/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeInterface"
             },
             "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemePactecivique"
             },
             "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-organic/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeOrganic"
             },
             "moustic2015": {
-                "archive": "https://github.com/YesWiki/yeswiki-themes/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015/archive/master.zip",
                 "branch": "master",
                 "folder": "",
                 "description": "",
-                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemes"
+                "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeMoustic2015"
             }
         }
     },
