@@ -6,43 +6,43 @@
         "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentatioN",
         "extensions": {
             "ebook": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ebook/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-ebookhttps://yeswiki",
                 "branch": "master",
                 "description": "Générateur d'ebook aux formats epub et pdf à partir des pages wikis ou fiche bazar",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionEbook"
             },
             "ferme": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ferme/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-fermehttps://yeswiki",
                 "branch": "master",
                 "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionFerme"
             },
             "googledrive": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrive/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrivehttps://yeswiki",
                 "branch": "master",
                 "description": "Créer des documents google et etherpad avec bazar",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionGoogleDrive"
             },
             "ipblock": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblock/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblockhttps://yeswiki",
                 "branch": "master",
                 "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionIpblock"
             },
             "loginldap": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldap/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldaphttps://yeswiki",
                 "branch": "master",
                 "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionLoginLdap"
             },
             "markdown": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-markdown/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-markdownhttps://yeswiki",
                 "branch": "master",
                 "description": "Active markdown au sein de YesWiki.",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionMarkdown"
             },
             "qrcode": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcode/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcodehttps://yeswiki",
                 "branch": "master",
                 "description": "Generateur de Qrcodes et application QrcodeTroc",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionQrcode"
@@ -50,70 +50,70 @@
         },
         "themes": {
             "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-base/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-basehttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBase"
             },
             "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-black/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-blackhttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBlack"
             },
             "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3https://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBootstrap3"
             },
             "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-colibrishttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeColibris"
             },
             "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoop/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoophttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeEnercoop"
             },
             "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-far/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-farhttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeFar"
             },
             "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-interface/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-interfacehttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeInterface"
             },
             "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-pacteciviquehttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemePactecivique"
             },
             "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-organic/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-organichttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeOrganic"
             },
             "moustic2015": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015https://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
@@ -128,43 +128,43 @@
         "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentatioN",
         "extensions": {
             "ebook": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ebook/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-ebookhttps://yeswiki",
                 "branch": "master",
                 "description": "Générateur d'ebook aux formats epub et pdf à partir des pages wikis ou fiche bazar",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionEbook"
             },
             "ferme": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ferme/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-fermehttps://yeswiki",
                 "branch": "master",
                 "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionFerme"
             },
             "googledrive": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrive/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrivehttps://yeswiki",
                 "branch": "master",
                 "description": "Créer des documents google et etherpad avec bazar",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionGoogleDrive"
             },
             "ipblock": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblock/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblockhttps://yeswiki",
                 "branch": "master",
                 "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionIpblock"
             },
             "loginldap": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldap/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldaphttps://yeswiki",
                 "branch": "master",
                 "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionLoginLdap"
             },
             "markdown": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-markdown/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-markdownhttps://yeswiki",
                 "branch": "master",
                 "description": "Active markdown au sein de YesWiki.",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionMarkdown"
             },
             "qrcode": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcode/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcodehttps://yeswiki",
                 "branch": "master",
                 "description": "Generateur de Qrcodes et application QrcodeTroc",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationExtensionQrcode"
@@ -172,70 +172,70 @@
         },
         "themes": {
             "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-base/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-basehttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBase"
             },
             "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-black/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-blackhttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBlack"
             },
             "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3https://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeBootstrap3"
             },
             "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-colibrishttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeColibris"
             },
             "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoop/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoophttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeEnercoop"
             },
             "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-far/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-farhttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeFar"
             },
             "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-interface/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-interfacehttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeInterface"
             },
             "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-pacteciviquehttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemePactecivique"
             },
             "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-organic/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-organichttps://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/wakka.php?wiki=DocumentationThemeOrganic"
             },
             "moustic2015": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015/archive/master.zip",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015https://yeswiki",
                 "branch": "master",
                 "folder": "",
                 "description": "",
