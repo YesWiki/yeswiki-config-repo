@@ -5,6 +5,18 @@
         "description": "",
         "documentation": "https://yeswiki.net/?DocumentatioN",
         "extensions": {
+            "webhooks" : {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
+                "branch": "master",
+                "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
+                "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
+            },
+            "checkaccesslink" : {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
+                "branch": "master",
+                "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
+                "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
+            },
             "ebook": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-ebook",
                 "branch": "master",
@@ -114,6 +126,18 @@
         "description": "",
         "documentation": "https://yeswiki.net/?DocumentatioN",
         "extensions": {
+            "webhooks" : {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
+                "branch": "master",
+                "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
+                "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
+            },
+            "checkaccesslink" : {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
+                "branch": "master",
+                "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
+                "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
+            },
             "ebook": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-ebook",
                 "branch": "master",
