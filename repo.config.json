@@ -47,6 +47,12 @@
                 "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
                 "documentation": "https://github.com/YesWiki/yeswiki-extension-loginldap/blob/master/README.md"
             },
+            "login-cas": {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+                "branch": "master",
+                "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
+                "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+            },
             "qrcode": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-qrcode",
                 "branch": "master",
@@ -117,7 +123,7 @@
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
-            },
+            }
         }
     },
     "cercopitheque_dev": {
@@ -167,6 +173,12 @@
                 "branch": "master",
                 "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
                 "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
+            },
+            "login-cas": {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+                "branch": "master",
+                "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
+                "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
             },
             "markdown": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-markdown",
