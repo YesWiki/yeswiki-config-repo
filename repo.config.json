@@ -65,70 +65,70 @@
                 "archive": "https://github.com/YesWiki/yeswiki-theme-base",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBase"
             },
             "black": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-black",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Theme sombre (fond noir)",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
             },
             "bootstrap3": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
             },
             "city": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-city",
                 "branch": "master",
                 "folder": "",
-                "description": "theme adapté de wikilleurbanne.fr",
+                "description": "Thème adapté de wikilleurbanne.fr",
                 "documentation": "https://yeswiki.net/?DocumentationThemeCity"
             },
             "colibris": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème aux couleurs du mouvement Colibris",
                 "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
             },
             "enercoop": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Adaptation générique du thème Enercoop",
                 "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
             },
             "far": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-far",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème du réseau FAR",
                 "documentation": "https://yeswiki.net/?DocumentationThemeFar"
             },
             "interface": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-interface",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème générique configurable par des variables CSS",
                 "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
             },
             "pactecivique": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème du pacte civique",
                 "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
             },
             "organic": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-organic",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Couleurs nature",
                 "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
             }
         }
@@ -205,78 +205,71 @@
                 "archive": "https://github.com/YesWiki/yeswiki-theme-base",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBase"
             },
             "black": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-black",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Theme sombre (fond noir)",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
             },
             "bootstrap3": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
             },
             "city": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-city",
                 "branch": "master",
                 "folder": "",
-                "description": "theme adapté de wikilleurbanne.fr",
+                "description": "Thème adapté de wikilleurbanne.fr",
                 "documentation": "https://yeswiki.net/?DocumentationThemeCity"
             },
             "colibris": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème aux couleurs du mouvement Colibris",
                 "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
             },
             "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-enercoop",
+                "archive": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Adaptation générique du thème Enercoop",
                 "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
             },
             "far": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-far",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème du réseau FAR",
                 "documentation": "https://yeswiki.net/?DocumentationThemeFar"
             },
             "interface": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-interface",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème générique configurable par des variables CSS",
                 "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
             },
             "pactecivique": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Thème du pacte civique",
                 "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
             },
             "organic": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-organic",
                 "branch": "master",
                 "folder": "",
-                "description": "",
+                "description": "Couleurs nature",
                 "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
-            },
-            "moustic2015": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-moustic2015",
-                "branch": "master",
-                "folder": "",
-                "description": "",
-                "documentation": "https://yeswiki.net/?DocumentationThemeMoustic2015"
             }
         }
     },
