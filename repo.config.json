@@ -82,6 +82,13 @@
                 "description": "",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
             },
+            "city": {
+                "archive": "https://github.com/YesWiki/yeswiki-theme-city",
+                "branch": "master",
+                "folder": "",
+                "description": "theme adapté de wikilleurbanne.fr",
+                "documentation": "https://yeswiki.net/?DocumentationThemeCity"
+            },
             "colibris": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
                 "branch": "master",
@@ -214,6 +221,13 @@
                 "folder": "",
                 "description": "",
                 "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
+            },
+            "city": {
+                "archive": "https://github.com/YesWiki/yeswiki-theme-city",
+                "branch": "master",
+                "folder": "",
+                "description": "theme adapté de wikilleurbanne.fr",
+                "documentation": "https://yeswiki.net/?DocumentationThemeCity"
             },
             "colibris": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
