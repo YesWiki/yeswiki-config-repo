@@ -117,6 +117,13 @@
                 "description": "Thème générique configurable par des variables CSS",
                 "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
             },
+            "margot": {
+                "archive": "https://github.com/YesWiki/yeswiki-theme-margot",
+                "branch": "master",
+                "folder": "",
+                "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
+                "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
+            },
             "pactecivique": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
                 "branch": "master",
@@ -130,6 +137,13 @@
                 "folder": "",
                 "description": "Couleurs nature",
                 "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
+            },
+            "yeswiki": {
+                "archive": "https://github.com/YesWiki/yeswiki-theme-yeswiki",
+                "branch": "master",
+                "folder": "",
+                "description": "Ancien thème par défaut pour Cercopitheque",
+                "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
             }
         }
     },
@@ -201,6 +215,7 @@
             }
         },
         "themes": {
+            "themes": {
             "base": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-base",
                 "branch": "master",
@@ -257,6 +272,13 @@
                 "description": "Thème générique configurable par des variables CSS",
                 "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
             },
+            "margot": {
+                "archive": "https://github.com/YesWiki/yeswiki-theme-margot",
+                "branch": "master",
+                "folder": "",
+                "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
+                "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
+            },
             "pactecivique": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
                 "branch": "master",
@@ -270,6 +292,13 @@
                 "folder": "",
                 "description": "Couleurs nature",
                 "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
+            },
+            "yeswiki": {
+                "archive": "https://github.com/YesWiki/yeswiki-theme-yeswiki",
+                "branch": "master",
+                "folder": "",
+                "description": "Ancien thème par défaut pour Cercopitheque",
+                "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
             }
         }
     },
