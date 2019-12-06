@@ -215,7 +215,6 @@
             }
         },
         "themes": {
-            "themes": {
             "base": {
                 "archive": "https://github.com/YesWiki/yeswiki-theme-base",
                 "branch": "master",
