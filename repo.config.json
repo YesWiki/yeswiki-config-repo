@@ -4,6 +4,13 @@
         "branch": "cercopitheque_dev",
         "description": "",
         "documentation": "https://yeswiki.net/?DocumentatioN",
+        "extra-tools": {},
+        "extra-themes": {
+          "margot": {
+            "archive": "https://github.com/YesWiki/yeswiki-theme-margot/archive/master.zip",
+            "branch": "master"
+          }
+        },
         "extensions": {
             "webhooks" : {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
