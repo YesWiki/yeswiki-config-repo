@@ -24,11 +24,11 @@
                 "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
                 "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
             },
-            "ebook": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ebook",
+            "publication": {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-publication",
                 "branch": "master",
-                "description": "Générateur d'ebook aux formats epub et pdf à partir des pages wikis ou fiche bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionEbook"
+                "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
+                "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
             },
             "ferme": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-ferme",
@@ -178,11 +178,11 @@
                 "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
                 "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
             },
-            "ebook": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ebook",
+            "publication": {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-publication",
                 "branch": "master",
-                "description": "Générateur d'ebook aux formats epub et pdf à partir des pages wikis ou fiche bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionEbook"
+                "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
+                "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
             },
             "ferme": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-ferme",
@@ -333,11 +333,11 @@
                 "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
                 "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
             },
-            "ebook": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ebook",
+            "publication": {
+                "archive": "https://github.com/YesWiki/yeswiki-extension-publication",
                 "branch": "master",
-                "description": "Générateur d'ebook aux formats epub et pdf à partir des pages wikis ou fiche bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionEbook"
+                "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
+                "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
             },
             "ferme": {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-ferme",
