@@ -16,7 +16,7 @@
                 "archive": "https://github.com/YesWiki/yeswiki-extension-lms",
                 "branch": "master",
                 "description": "Permet d'utiliser YesWiki comme une plateforme d'apprentissage (LMS : Learning Management System)",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-lms/blob/master/README.md"
+                "documentation": "https://yeswiki.net/?DocumentationExtensionLMS"
             },
             "webhooks" : {
                 "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
