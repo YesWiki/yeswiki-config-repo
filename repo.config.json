@@ -1,495 +1,495 @@
 {
-    "doryphore-dev": {
-        "archive": "https://github.com/YesWiki/yeswiki/archive/development.zip",
-        "branch": "development",
-        "description": "",
-        "documentation": "https://yeswiki.net/?DocumentatioN",
-        "extra-tools": {},
-        "extra-themes": {},
-        "extensions": {
-            "lms" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-lms",
-                "branch": "doryphore",
-                "description": "Permet d'utiliser YesWiki comme une plateforme d'apprentissage (LMS : Learning Management System)",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-lms/blob/master/README.md"
-            },
-            "webhooks" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
-                "branch": "master",
-                "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
-            },
-            "checkaccesslink" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
-                "branch": "master",
-                "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
-            },
-            "publication": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-publication",
-                "branch": "master",
-                "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
-            },
-            "ferme": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ferme",
-                "branch": "master",
-                "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionFerme"
-            },
-            "googledrive": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrive",
-                "branch": "master",
-                "description": "Créer des documents google et etherpad avec bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionGoogleDrive"
-            },
-            "ipblock": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblock",
-                "branch": "master",
-                "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionIpblock"
-            },
-            "loginldap": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldap",
-                "branch": "master",
-                "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
-            },
-            "login-cas": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-login-cas",
-                "branch": "master",
-                "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
-            },
-            "markdown": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-markdown",
-                "branch": "master",
-                "description": "Active markdown au sein de YesWiki.",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionMarkdown"
-            },
-            "qrcode": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcode",
-                "branch": "master",
-                "description": "Generateur de Qrcodes et application QrcodeTroc",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionQrcode"
-            }
-        },
-        "themes": {
-            "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-base",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBase"
-            },
-            "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-black",
-                "branch": "master",
-                "folder": "",
-                "description": "Theme sombre (fond noir)",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
-            },
-            "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
-                "branch": "master",
-                "folder": "",
-                "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
-            },
-            "city": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-city",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème adapté de wikilleurbanne.fr",
-                "documentation": "https://yeswiki.net/?DocumentationThemeCity"
-            },
-            "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème aux couleurs du mouvement Colibris",
-                "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
-            },
-            "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
-                "branch": "master",
-                "folder": "",
-                "description": "Adaptation générique du thème Enercoop",
-                "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
-            },
-            "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-far",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème du réseau FAR",
-                "documentation": "https://yeswiki.net/?DocumentationThemeFar"
-            },
-            "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-interface",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème générique configurable par des variables CSS",
-                "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
-            },
-            "margot": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-margot",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
-                "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
-            },
-            "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème du pacte civique",
-                "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
-            },
-            "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-organic",
-                "branch": "master",
-                "folder": "",
-                "description": "Couleurs nature",
-                "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
-            },
-            "yeswikicerco": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-yeswikicerco",
-                "branch": "master",
-                "folder": "",
-                "description": "Ancien thème par défaut pour Cercopitheque",
-                "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
-            }
-        }
+  "anacoluthe": {
+    "repository": "https://github.com/YesWiki/yeswiki",
+    "branch": "anacoluthe",
+    "description": "",
+    "documentation": "https://yeswiki.net/?DocumentatioN",
+    "extensions": {},
+    "themes": {}
+  },
+  "bachibouzouk": {
+    "repository": "https://github.com/YesWiki/yeswiki",
+    "branch": "bachibouzouk",
+    "description": "",
+    "documentation": "https://yeswiki.net/?DocumentatioN",
+    "extensions": {},
+    "themes": {}
+  },
+  "cercopitheque": {
+    "repository": "https://github.com/YesWiki/yeswiki",
+    "branch": "cercopitheque",
+    "description": "",
+    "documentation": "https://yeswiki.net/?DocumentatioN",
+    "extensions": {
+      "webhooks": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-webhooks",
+        "branch": "master",
+        "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
+      },
+      "checkaccesslink": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
+        "branch": "master",
+        "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
+      },
+      "publication": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-publication",
+        "branch": "master",
+        "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
+      },
+      "ferme": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-ferme",
+        "branch": "master",
+        "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-ferme/blob/master/README.md"
+      },
+      "googledrive": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-googledrive",
+        "branch": "master",
+        "description": "Créer des documents google et etherpad avec bazar",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-googledrive/blob/master/README.md"
+      },
+      "ipblock": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-ipblock",
+        "branch": "master",
+        "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionIpblock"
+      },
+      "loginldap": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-loginldap",
+        "branch": "master",
+        "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-loginldap/blob/master/README.md"
+      },
+      "login-cas": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+        "branch": "master",
+        "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+      },
+      "qrcode": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-qrcode",
+        "branch": "master",
+        "description": "Generateur de Qrcodes et application QrcodeTroc",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-qrcode/blob/master/README.md"
+      }
     },
-    "doryphore": {
-        "archive": "https://github.com/YesWiki/yeswiki/archive/doryphore.zip",
-        "branch": "doryphore",
-        "description": "",
-        "documentation": "https://yeswiki.net/?DocumentatioN",
-        "extra-tools": {},
-        "extra-themes": {
-          "margot": {
-            "archive": "https://github.com/YesWiki/yeswiki-theme-margot/archive/master.zip",
-            "branch": "master"
-          }
-        },
-        "extensions": {
-            "lms" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-lms",
-                "branch": "master",
-                "description": "Permet d'utiliser YesWiki comme une plateforme d'apprentissage (LMS : Learning Management System)",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-lms/blob/master/README.md"
-            },
-            "webhooks" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
-                "branch": "master",
-                "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
-            },
-            "checkaccesslink" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
-                "branch": "master",
-                "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
-            },
-            "publication": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-publication",
-                "branch": "master",
-                "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
-            },
-            "ferme": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ferme",
-                "branch": "master",
-                "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionFerme"
-            },
-            "googledrive": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrive",
-                "branch": "master",
-                "description": "Créer des documents google et etherpad avec bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionGoogleDrive"
-            },
-            "ipblock": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblock",
-                "branch": "master",
-                "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionIpblock"
-            },
-            "loginldap": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldap",
-                "branch": "master",
-                "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
-            },
-            "login-cas": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-login-cas",
-                "branch": "master",
-                "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
-            },
-            "markdown": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-markdown",
-                "branch": "master",
-                "description": "Active markdown au sein de YesWiki.",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionMarkdown"
-            },
-            "qrcode": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcode",
-                "branch": "master",
-                "description": "Generateur de Qrcodes et application QrcodeTroc",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionQrcode"
-            }
-        },
-        "themes": {
-            "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-base",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBase"
-            },
-            "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-black",
-                "branch": "master",
-                "folder": "",
-                "description": "Theme sombre (fond noir)",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
-            },
-            "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
-                "branch": "master",
-                "folder": "",
-                "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
-            },
-            "city": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-city",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème adapté de wikilleurbanne.fr",
-                "documentation": "https://yeswiki.net/?DocumentationThemeCity"
-            },
-            "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème aux couleurs du mouvement Colibris",
-                "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
-            },
-            "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
-                "branch": "master",
-                "folder": "",
-                "description": "Adaptation générique du thème Enercoop",
-                "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
-            },
-            "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-far",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème du réseau FAR",
-                "documentation": "https://yeswiki.net/?DocumentationThemeFar"
-            },
-            "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-interface",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème générique configurable par des variables CSS",
-                "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
-            },
-            "margot": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-margot",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
-                "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
-            },
-            "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème du pacte civique",
-                "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
-            },
-            "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-organic",
-                "branch": "master",
-                "folder": "",
-                "description": "Couleurs nature",
-                "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
-            },
-            "yeswikicerco": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-yeswikicerco",
-                "branch": "master",
-                "folder": "",
-                "description": "Ancien thème par défaut pour Cercopitheque",
-                "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
-            }
-        }
-    },
-    "cercopitheque": {
-        "archive": "https://github.com/YesWiki/yeswiki/archive/cercopitheque.zip",
-        "branch": "cercopitheque",
-        "description": "",
-        "documentation": "https://yeswiki.net/?DocumentatioN",
-        "extensions": {
-            "webhooks" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-webhooks",
-                "branch": "master",
-                "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
-            },
-            "checkaccesslink" : {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
-                "branch": "master",
-                "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
-            },
-            "publication": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-publication",
-                "branch": "master",
-                "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
-            },
-            "ferme": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ferme",
-                "branch": "master",
-                "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-ferme/blob/master/README.md"
-            },
-            "googledrive": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-googledrive",
-                "branch": "master",
-                "description": "Créer des documents google et etherpad avec bazar",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-googledrive/blob/master/README.md"
-            },
-            "ipblock": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-ipblock",
-                "branch": "master",
-                "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
-                "documentation": "https://yeswiki.net/?DocumentationExtensionIpblock"
-            },
-            "loginldap": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-loginldap",
-                "branch": "master",
-                "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-loginldap/blob/master/README.md"
-            },
-            "login-cas": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-login-cas",
-                "branch": "master",
-                "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
-            },
-            "qrcode": {
-                "archive": "https://github.com/YesWiki/yeswiki-extension-qrcode",
-                "branch": "master",
-                "description": "Generateur de Qrcodes et application QrcodeTroc",
-                "documentation": "https://github.com/YesWiki/yeswiki-extension-qrcode/blob/master/README.md"
-            }
-        },
-        "themes": {
-            "base": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-base",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBase"
-            },
-            "black": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-black",
-                "branch": "master",
-                "folder": "",
-                "description": "Theme sombre (fond noir)",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
-            },
-            "bootstrap3": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
-                "branch": "master",
-                "folder": "",
-                "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
-                "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
-            },
-            "city": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-city",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème adapté de wikilleurbanne.fr",
-                "documentation": "https://yeswiki.net/?DocumentationThemeCity"
-            },
-            "colibris": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-colibris",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème aux couleurs du mouvement Colibris",
-                "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
-            },
-            "enercoop": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
-                "branch": "master",
-                "folder": "",
-                "description": "Adaptation générique du thème Enercoop",
-                "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
-            },
-            "far": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-far",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème du réseau FAR",
-                "documentation": "https://yeswiki.net/?DocumentationThemeFar"
-            },
-            "interface": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-interface",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème générique configurable par des variables CSS",
-                "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
-            },
-            "margot": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-margot",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
-                "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
-            },
-            "pactecivique": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
-                "branch": "master",
-                "folder": "",
-                "description": "Thème du pacte civique",
-                "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
-            },
-            "organic": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-organic",
-                "branch": "master",
-                "folder": "",
-                "description": "Couleurs nature",
-                "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
-            },
-            "yeswikicerco": {
-                "archive": "https://github.com/YesWiki/yeswiki-theme-yeswikicerco",
-                "branch": "master",
-                "folder": "",
-                "description": "Ancien thème par défaut pour Cercopitheque",
-                "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
-            }
-        }
-    },
-    "bachibouzouk": {
-        "archive": "https://github.com/YesWiki/yeswiki/archive/bachibouzouk.zip",
-        "branch": "bachibouzouk",
-        "description": "",
-        "documentation": "https://yeswiki.net/?DocumentatioN",
-        "extensions": {},
-        "themes": {}
-    },
-    "anacoluthe": {
-        "archive": "https://github.com/YesWiki/yeswiki/archive/anacoluthe.zip",
-        "branch": "anacoluthe",
-        "description": "",
-        "documentation": "https://yeswiki.net/?DocumentatioN",
-        "extensions": {},
-        "themes": {}
+    "themes": {
+      "base": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-base",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBase"
+      },
+      "black": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-black",
+        "branch": "master",
+        "folder": "",
+        "description": "Theme sombre (fond noir)",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
+      },
+      "bootstrap3": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
+        "branch": "master",
+        "folder": "",
+        "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
+      },
+      "city": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-city",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème adapté de wikilleurbanne.fr",
+        "documentation": "https://yeswiki.net/?DocumentationThemeCity"
+      },
+      "colibris": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-colibris",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème aux couleurs du mouvement Colibris",
+        "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
+      },
+      "enercoop": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
+        "branch": "master",
+        "folder": "",
+        "description": "Adaptation générique du thème Enercoop",
+        "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
+      },
+      "far": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-far",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème du réseau FAR",
+        "documentation": "https://yeswiki.net/?DocumentationThemeFar"
+      },
+      "interface": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-interface",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème générique configurable par des variables CSS",
+        "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
+      },
+      "margot": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-margot",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
+        "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
+      },
+      "pactecivique": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème du pacte civique",
+        "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
+      },
+      "organic": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-organic",
+        "branch": "master",
+        "folder": "",
+        "description": "Couleurs nature",
+        "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
+      },
+      "yeswikicerco": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-yeswikicerco",
+        "branch": "master",
+        "folder": "",
+        "description": "Ancien thème par défaut pour Cercopitheque",
+        "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
+      }
     }
+  },
+  "doryphore": {
+    "repository": "https://github.com/YesWiki/yeswiki",
+    "branch": "doryphore",
+    "description": "",
+    "documentation": "https://yeswiki.net/?DocumentatioN",
+    "extra-tools": {},
+    "extra-themes": {
+      "margot": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-margot",
+        "branch": "master"
+      }
+    },
+    "extensions": {
+      "lms": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-lms",
+        "branch": "doryphore",
+        "description": "Permet d'utiliser YesWiki comme une plateforme d'apprentissage (LMS : Learning Management System)",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-lms/blob/master/README.md"
+      },
+      "webhooks": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-webhooks",
+        "branch": "master",
+        "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
+      },
+      "checkaccesslink": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
+        "branch": "master",
+        "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
+      },
+      "publication": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-publication",
+        "branch": "master",
+        "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
+      },
+      "ferme": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-ferme",
+        "branch": "doryphore",
+        "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionFerme"
+      },
+      "googledrive": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-googledrive",
+        "branch": "master",
+        "description": "Créer des documents google et etherpad avec bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionGoogleDrive"
+      },
+      "ipblock": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-ipblock",
+        "branch": "master",
+        "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionIpblock"
+      },
+      "loginldap": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-loginldap",
+        "branch": "master",
+        "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
+      },
+      "login-cas": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+        "branch": "master",
+        "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+      },
+      "markdown": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-markdown",
+        "branch": "master",
+        "description": "Active markdown au sein de YesWiki.",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionMarkdown"
+      },
+      "qrcode": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-qrcode",
+        "branch": "master",
+        "description": "Generateur de Qrcodes et application QrcodeTroc",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionQrcode"
+      }
+    },
+    "themes": {
+      "base": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-base",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBase"
+      },
+      "black": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-black",
+        "branch": "master",
+        "folder": "",
+        "description": "Theme sombre (fond noir)",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
+      },
+      "bootstrap3": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
+        "branch": "master",
+        "folder": "",
+        "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
+      },
+      "city": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-city",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème adapté de wikilleurbanne.fr",
+        "documentation": "https://yeswiki.net/?DocumentationThemeCity"
+      },
+      "colibris": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-colibris",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème aux couleurs du mouvement Colibris",
+        "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
+      },
+      "enercoop": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
+        "branch": "master",
+        "folder": "",
+        "description": "Adaptation générique du thème Enercoop",
+        "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
+      },
+      "far": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-far",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème du réseau FAR",
+        "documentation": "https://yeswiki.net/?DocumentationThemeFar"
+      },
+      "interface": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-interface",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème générique configurable par des variables CSS",
+        "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
+      },
+      "margot": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-margot",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
+        "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
+      },
+      "pactecivique": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème du pacte civique",
+        "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
+      },
+      "organic": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-organic",
+        "branch": "master",
+        "folder": "",
+        "description": "Couleurs nature",
+        "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
+      },
+      "yeswikicerco": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-yeswikicerco",
+        "branch": "master",
+        "folder": "",
+        "description": "Ancien thème par défaut pour Cercopitheque",
+        "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
+      }
+    }
+  },
+  "stable": {
+    "repository": "https://github.com/YesWiki/yeswiki",
+    "tag": "v4.0.0-rc.1",
+    "description": "",
+    "documentation": "https://yeswiki.net/?DocumentatioN",
+    "extra-tools": {},
+    "extra-themes": {},
+    "extensions": {
+      "lms": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-lms",
+        "tag": "v0.1.0",
+        "description": "Permet d'utiliser YesWiki comme une plateforme d'apprentissage (LMS : Learning Management System)",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-lms/blob/master/README.md"
+      },
+      "webhooks": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-webhooks",
+        "branch": "master",
+        "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
+      },
+      "checkaccesslink": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-checkaccesslink",
+        "branch": "master",
+        "description": "Conditionne la visibilité d'un lien dans les menus et pages, à son droit d'accès",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionCheckAccessLink"
+      },
+      "publication": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-publication",
+        "branch": "master",
+        "description": "Générateur de publications au format pdf à partir des pages wikis ou fiche bazar",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-publication/blob/master/README.md"
+      },
+      "ferme": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-ferme",
+        "branch": "doryphore",
+        "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionFerme"
+      },
+      "googledrive": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-googledrive",
+        "branch": "master",
+        "description": "Créer des documents google et etherpad avec bazar",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionGoogleDrive"
+      },
+      "ipblock": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-ipblock",
+        "branch": "master",
+        "description": "Bloque les accès en édition pour les adresses ip de différents pays.",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionIpblock"
+      },
+      "loginldap": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-loginldap",
+        "branch": "master",
+        "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
+      },
+      "login-cas": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+        "branch": "master",
+        "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+      },
+      "markdown": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-markdown",
+        "branch": "master",
+        "description": "Active markdown au sein de YesWiki.",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionMarkdown"
+      },
+      "qrcode": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-qrcode",
+        "branch": "master",
+        "description": "Generateur de Qrcodes et application QrcodeTroc",
+        "documentation": "https://yeswiki.net/?DocumentationExtensionQrcode"
+      }
+    },
+    "themes": {
+      "base": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-base",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème avec barre horizontal pourpre, transparente avant scroll",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBase"
+      },
+      "black": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-black",
+        "branch": "master",
+        "folder": "",
+        "description": "Theme sombre (fond noir)",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBlack"
+      },
+      "bootstrap3": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-bootstrap3",
+        "branch": "master",
+        "folder": "",
+        "description": "Ensemble de thèmes bootstrap3 avec les variantes css proposées par bootswatch",
+        "documentation": "https://yeswiki.net/?DocumentationThemeBootstrap3"
+      },
+      "city": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-city",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème adapté de wikilleurbanne.fr",
+        "documentation": "https://yeswiki.net/?DocumentationThemeCity"
+      },
+      "colibris": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-colibris",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème aux couleurs du mouvement Colibris",
+        "documentation": "https://yeswiki.net/?DocumentationThemeColibris"
+      },
+      "enercoop": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-minibandeau",
+        "branch": "master",
+        "folder": "",
+        "description": "Adaptation générique du thème Enercoop",
+        "documentation": "https://yeswiki.net/?DocumentationThemeEnercoop"
+      },
+      "far": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-far",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème du réseau FAR",
+        "documentation": "https://yeswiki.net/?DocumentationThemeFar"
+      },
+      "interface": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-interface",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème générique configurable par des variables CSS",
+        "documentation": "https://yeswiki.net/?DocumentationThemeInterface"
+      },
+      "margot": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-margot",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème par défaut pour Doriphore, configurable par des variables CSS",
+        "documentation": "https://yeswiki.net/?DocumentationThemeMargot"
+      },
+      "pactecivique": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-pactecivique",
+        "branch": "master",
+        "folder": "",
+        "description": "Thème du pacte civique",
+        "documentation": "https://yeswiki.net/?DocumentationThemePactecivique"
+      },
+      "organic": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-organic",
+        "branch": "master",
+        "folder": "",
+        "description": "Couleurs nature",
+        "documentation": "https://yeswiki.net/?DocumentationThemeOrganic"
+      },
+      "yeswikicerco": {
+        "repository": "https://github.com/YesWiki/yeswiki-theme-yeswikicerco",
+        "branch": "master",
+        "folder": "",
+        "description": "Ancien thème par défaut pour Cercopitheque",
+        "documentation": "https://yeswiki.net/?DocumentationThemeYesWiki"
+      }
+    }
+  }
 }
