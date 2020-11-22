@@ -41,7 +41,7 @@
       },
       "ferme": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-ferme",
-        "branch": "master",
+        "branch": "cercopitheque",
         "description": "Gérer une ferme à wikis a partir d'un formulaire bazar",
         "documentation": "https://github.com/YesWiki/yeswiki-extension-ferme/blob/master/README.md"
       },
