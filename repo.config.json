@@ -23,7 +23,7 @@
     "extensions": {
       "webhooks": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-webhooks",
-        "branch": "master",
+        "branch": "cercopitheque",
         "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
         "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
       },
@@ -184,7 +184,7 @@
       },
       "webhooks": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-webhooks",
-        "branch": "master",
+        "branch": "doryphore",
         "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
         "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
       },
@@ -346,7 +346,7 @@
       },
       "webhooks": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-webhooks",
-        "branch": "master",
+        "branch": "doryphore",
         "description": "Envoie des webhooks pour chaque ajout/modification/suppression d'une fiche Bazar",
         "documentation": "https://yeswiki.net/?DocumentationExtensionWebHooks"
       },
