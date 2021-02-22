@@ -220,7 +220,7 @@
       },
       "loginldap": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-loginldap",
-        "branch": "master",
+        "branch": "doryphore",
         "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
         "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
       },
