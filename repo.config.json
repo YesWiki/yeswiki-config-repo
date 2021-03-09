@@ -63,11 +63,11 @@
         "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
         "documentation": "https://github.com/YesWiki/yeswiki-extension-loginldap/blob/master/README.md"
       },
-      "login-cas": {
-        "repository": "https://github.com/YesWiki/yeswiki-extension-login-cas",
-        "branch": "master",
+      "logincas": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-logincas",
+        "branch": "cercopitheque",
         "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
-        "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-logincas/blob/master/README.md"
       },
       "qrcode": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-qrcode",
@@ -224,11 +224,11 @@
         "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
         "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
       },
-      "login-cas": {
-        "repository": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+      "logincas": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-logincas",
         "branch": "master",
         "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
-        "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-logincas/blob/master/README.md"
       },
       "markdown": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-markdown",
@@ -386,11 +386,11 @@
         "description": "Remplace l'authentification de YesWiki par celle d'un annuaire LDAP",
         "documentation": "https://yeswiki.net/?DocumentationExtensionLoginLdap"
       },
-      "login-cas": {
-        "repository": "https://github.com/YesWiki/yeswiki-extension-login-cas",
+      "logincas": {
+        "repository": "https://github.com/YesWiki/yeswiki-extension-logincas",
         "branch": "master",
         "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
-        "documentation": "https://github.com/YesWiki/yeswiki-extension-login-cas/blob/master/README.md"
+        "documentation": "https://github.com/YesWiki/yeswiki-extension-logincas/blob/master/README.md"
       },
       "markdown": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-markdown",
