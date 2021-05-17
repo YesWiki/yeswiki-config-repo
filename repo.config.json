@@ -388,7 +388,7 @@
       },
       "logincas": {
         "repository": "https://github.com/YesWiki/yeswiki-extension-logincas",
-        "branch": "master",
+        "branch": "doryphore",
         "description": "Remplace l'authentification de YesWiki par celle d'un serveur CAS",
         "documentation": "https://github.com/YesWiki/yeswiki-extension-logincas/blob/master/README.md"
       },
