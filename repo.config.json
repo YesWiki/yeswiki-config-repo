@@ -1,20 +1,4 @@
 {
-  "anacoluthe": {
-    "repository": "https://github.com/YesWiki/yeswiki",
-    "branch": "anacoluthe",
-    "description": "",
-    "documentation": "https://yeswiki.net/?DocumentatioN",
-    "extensions": {},
-    "themes": {}
-  },
-  "bachibouzouk": {
-    "repository": "https://github.com/YesWiki/yeswiki",
-    "branch": "bachibouzouk",
-    "description": "",
-    "documentation": "https://yeswiki.net/?DocumentatioN",
-    "extensions": {},
-    "themes": {}
-  },
   "cercopitheque": {
     "repository": "https://github.com/YesWiki/yeswiki",
     "branch": "cercopitheque",
